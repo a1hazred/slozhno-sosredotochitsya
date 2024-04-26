@@ -1,7 +1,7 @@
 .page {
   display: flex;
   flex-direction: column;
-  font-family: "IBM Plex Mono", sans-serif;
+  font-family: "IBM Plex Mono", monospace;
   background-color: var(--page-background-color);
   background-image: var(--page-background-image);
   background-position: center;
